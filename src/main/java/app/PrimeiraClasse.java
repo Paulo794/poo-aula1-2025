@@ -7,7 +7,7 @@ public class PrimeiraClasse{
         a1.idade = 19;
 
         Aluno a2= a1;
-        a2.nome = "Felipe dá a bunda seis vezes";
+        a2.nome = "Felipe";
         
 
         System.out.println("[ A1]");
